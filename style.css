@@ -1,0 +1,10 @@
+#navigation {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    padding: 20px;
+    color: white;
+    list-style: none;
+    background-color: hsl(60, 2%, 11%);
+}
+
